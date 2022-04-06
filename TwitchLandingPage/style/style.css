@@ -13,7 +13,7 @@ body {
     position : absolute;
 	width : 100%;
 	height : 100%;
-    background-image: url(/img/twitch.jpeg);
+    background-image: url(/TwitchLandingPage/img/twitch.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0;
