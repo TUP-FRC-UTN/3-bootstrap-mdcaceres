@@ -1,0 +1,21 @@
+.main {
+    background-color: blueviolet; 
+    width: 1240px; 
+    height: 100%; 
+    display: flex;
+}
+
+.foto{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.divIzq {
+    background-color: red;
+}
+
+.divDer{
+    background-color: black;
+}
